@@ -1,0 +1,11 @@
+C:\Users\HOST-PC\Desktop\EloAddons\ISorakaI\ISorakaI\bin\Release\ISorakaI.exe.config
+C:\Users\HOST-PC\Desktop\EloAddons\ISorakaI\ISorakaI\bin\Release\ISorakaI.exe
+C:\Users\HOST-PC\Desktop\EloAddons\ISorakaI\ISorakaI\bin\Release\ISorakaI.pdb
+C:\Users\HOST-PC\Desktop\EloAddons\ISorakaI\ISorakaI\bin\Release\EloBuddy.dll
+C:\Users\HOST-PC\Desktop\EloAddons\ISorakaI\ISorakaI\bin\Release\EloBuddy.SDK.dll
+C:\Users\HOST-PC\Desktop\EloAddons\ISorakaI\ISorakaI\bin\Release\SharpDX.dll
+C:\Users\HOST-PC\Desktop\EloAddons\ISorakaI\ISorakaI\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\HOST-PC\Desktop\EloAddons\ISorakaI\ISorakaI\bin\Release\Newtonsoft.Json.dll
+C:\Users\HOST-PC\Desktop\EloAddons\ISorakaI\ISorakaI\obj\Release\ISorakaI.csprojResolveAssemblyReference.cache
+C:\Users\HOST-PC\Desktop\EloAddons\ISorakaI\ISorakaI\obj\Release\ISorakaI.exe
+C:\Users\HOST-PC\Desktop\EloAddons\ISorakaI\ISorakaI\obj\Release\ISorakaI.pdb
